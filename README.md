@@ -51,7 +51,7 @@ Objective: Identify patterns affecting survival.
 ## 📈 Visual Analysis & Insights
 
 ## 1️⃣ Age Distribution
-![Boxplot of Age](images/box_Age.png)
+![Boxplot of Age](eda_outputs/box_Age.png)
 
 
 ### 🔎 Insights:
@@ -67,7 +67,7 @@ Age alone is not a strong survival predictor.
 ---
 
 ## 2️⃣ Fare Distribution
-![Boxplot of Fare](images/box_Fare.png)
+![Boxplot of Fare](eda_outputs/box_Fare.png)
 
 ### 🔎 Insights:
 
@@ -84,7 +84,7 @@ Log transformation recommended for modeling.
 ---
 
 ## 3️⃣ Parch (Parents/Children Aboard)
-![Boxplot of Parch](images/box_Parch.png)
+![Boxplot of Parch](eda_outputs/box_Parch.png)
 
 ### 🔎 Insights:
 
@@ -97,7 +97,7 @@ Feature may help in family survival analysis.
 ---
 
 ## 4️⃣ PassengerId
-![Boxplot of PassengerId](images/box_PassengerId.png)
+![Boxplot of PassengerId](eda_outputs/box_PassengerId.png)
 
 ### 🔎 Insights:
 
@@ -112,7 +112,7 @@ Should be removed.
 ---
 
 ## 5️⃣ Passenger Class (Pclass)
-![Boxplot of Pclass](images/box_Pclass.png)
+![Boxplot of Pclass](eda_outputs/box_Pclass.png)
 
 ### 🔎 Insights:
 
@@ -125,7 +125,7 @@ Higher class → better survival probability.
 ---
 
 ## 6️⃣ SibSp (Siblings/Spouse Aboard)
-![Boxplot of SibSp](images/box_SibSp.png)
+![Boxplot of SibSp](eda_outputs/box_SibSp.png)
 
 ### 🔎 Insights:
 
@@ -138,7 +138,7 @@ Family size may influence survival.
 ---
 
 ## 7️⃣ Survival Distribution
-![Boxplot of Survived](images/box_Survived.png)
+![Boxplot of Survived](eda_outputs/box_Survived.png)
 
 ### 🔎 Insights:
 
@@ -151,7 +151,7 @@ Class imbalance present.
 ---
 
 ## 🔥 Correlation Analysis
-![Boxplot of Correlation Matrix](images/correlation_matrix.png)
+![Boxplot of Correlation Matrix](eda_outputs/correlation_matrix.png)
 
 ### 🔎 Key Findings:
 
