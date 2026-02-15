@@ -1,4 +1,6 @@
 # 🚢 Titanic Dataset – Exploratory Data Analysis (EDA)
+![titanic](https://github.com/user-attachments/assets/2cbcde83-fea2-48f5-b0ea-0d0a90cc78aa)
+
 📌 Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to understand:
