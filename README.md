@@ -1,7 +1,15 @@
 # 🚢 Titanic Dataset – Exploratory Data Analysis (EDA)
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-lightblue)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Visualization-darkblue)
+
+
 ![titanic](https://github.com/user-attachments/assets/2cbcde83-fea2-48f5-b0ea-0d0a90cc78aa)
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to understand:
 
